@@ -1,0 +1,21 @@
+\documentclass{jsarticle}
+
+\newcommand{\T}{\mathsf{T}}
+
+\begin{document}
+\section{中心化}
+$n$個の対象に対する特徴量を$p$とした時，$n \times p$を$\bm X = x_0,\udots,x_n$と定義する．
+また距離行列$D^2$の要素$d_{ij}$を次のように定義する．
+\begin{eqnarray}
+    d_{ij}=\| x_i - x_j\|^2
+\end{eqnarray}
+また，距離行列$D^2$は$\bm X$を用いると次のように表すことができる．
+\begin{eqnarray}
+    D^2 = diag(X^\T X)1_n1_n^T - 2X^\T X + 1_n1_n^T diag(X^\T X)
+\end{eqnarray}
+diang($X X^T$)は対角成分を取り出した行列である．
+また，中心化行列は次のように表される．
+\begin{eqnarray}
+    J_n =   I_n - \frac{1}{n}1_n 1_n^\T
+\end{eqnarray}
+\end{document}

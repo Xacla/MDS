@@ -1,0 +1,15 @@
+PWD /Users/owner/Desktop/研究/MDS
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/owner/Desktop/研究/MDS/mds.tex
+OUTPUT /Users/owner/Desktop/研究/MDS/mds.log
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /Users/owner/Desktop/研究/MDS/mds.aux
+INPUT /Users/owner/Desktop/研究/MDS/mds.aux
+OUTPUT /Users/owner/Desktop/研究/MDS/mds.aux
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
